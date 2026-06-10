@@ -372,7 +372,8 @@ function Home() {
             </p>
             <div className="mt-8 flex flex-wrap items-center justify-center gap-4">
               <a href="mailto:varta2026@iiit.ac.in" className="btn-primary">
-                <Mail className="h-4 w-4" /> varta2026@iiit.ac.in
+                <Mail className="h-4 w-4" />
+                <span>varta2026@iiit.ac.in</span>
               </a>
               <a href="#" className="btn-ghost">
                 <Users className="h-4 w-4" /> Mailing List

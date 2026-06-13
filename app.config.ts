@@ -1,4 +1,4 @@
-import { defineConfig } from "vinxi/config"
+import { defineConfig } from "@tanstack/start/config"
 
 export default defineConfig({
   server: {
